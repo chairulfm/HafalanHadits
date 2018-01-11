@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_kedua"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context="rfa.hadis.MainActivity">
+
+    <Button
+        android:id="@+id/judul"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/ic_launcher_background"
+        android:text="TENTANG APLIKASI"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/arti1"
+        android:layout_below="@+id/judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:text="@string/isiinfo"
+        android:textSize="18dp"
+        android:layout_marginBottom="3dp"
+        android:layout_margin="5dp"
+        android:layout_marginTop="20dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="66dp" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="36dp"
+        android:text="Menuju Halaman Utama"
+        android:textSize="14sp" />
+
+
+
+
+</RelativeLayout>

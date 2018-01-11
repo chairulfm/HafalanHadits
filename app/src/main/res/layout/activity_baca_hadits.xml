@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_kedua"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bc1"
+    tools:context="rfa.hadis.MainActivity">
+
+    <!--<TextView-->
+        <!--android:id="@+id/textView2"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:layout_marginTop="35dp"-->
+        <!--android:text="BACA HADITS"-->
+        <!--android:textAlignment="center"-->
+        <!--android:textSize="18sp"-->
+        <!--android:textStyle="normal|bold" />-->
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="32dp"
+        android:text="Menuju Halaman Utama"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/judul"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/ic_launcher_background"
+        android:text="KUMPULAN HADITS"
+        android:textSize="20dp"/>
+
+    <Button
+        android:id="@+id/hadis1"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/judul"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorWhite"
+        android:text="Hadits lupa membaca doa sebelum makan"
+        android:textSize="15sp"
+
+        />
+    <Button
+        android:id="@+id/hadis2"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/hadis1"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/colorWhite"
+        android:text="Hadits Tentang Kejujuran"
+        android:textSize="15sp"
+        />
+    <Button
+        android:id="@+id/hadis3"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/hadis2"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/colorWhite"
+        android:text="Hadits Allah Menyukai Kebersihan"
+        android:textSize="15sp"
+
+        />
+    <Button
+        android:id="@+id/hadis4"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/hadis3"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/colorWhite"
+        android:text="Hadits Cinta Kepada Allah"
+        android:textSize="15sp"
+
+        />
+    <Button
+        android:id="@+id/hadis5"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/hadis4"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/colorWhite"
+        android:text="Hadits Tentang memilih Teman"
+        android:textSize="15sp"
+
+        />
+    <Button
+        android:id="@+id/hadis6"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/hadis5"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/colorWhite"
+        android:text="Hadits Tentang Bersiwak"
+        android:textSize="15sp"
+
+        />
+    <Button
+        android:id="@+id/hadis7"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/hadis6"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/colorWhite"
+        android:text="Hadits Keutamaan Menuntut Ilmu"
+        android:textSize="15sp"
+
+        />
+    <Button
+        android:id="@+id/hadis8"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/hadis7"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/colorWhite"
+        android:text="Hadits Keutamaan Shalat Jumat"
+        android:textSize="15sp"
+
+        />
+    <Button
+        android:id="@+id/hadis9"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/hadis8"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/colorWhite"
+        android:text="Hadits Menganjurkan Berobat"
+        android:textSize="15sp"
+
+        />
+    <Button
+        android:id="@+id/hadis10"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/hadis9"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/colorWhite"
+        android:text="Hadis Menjaga Pola Makan"
+        android:textSize="15sp"
+
+        />
+    <Button
+        android:id="@+id/hadis11"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/hadis10"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/colorWhite"
+        android:text="Hadis Menjaga Alam"
+        android:textSize="15sp"
+
+        />
+    <Button
+        android:id="@+id/hadis12"
+        android:layout_width="400dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/hadis11"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@color/colorWhite"
+        android:text="Hadits Tentang Akhlak Baik"
+        android:textSize="15sp"
+
+        />
+
+
+</RelativeLayout>

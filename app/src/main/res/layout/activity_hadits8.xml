@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_kedua"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context="rfa.hadis.MainActivity">
+
+    <!--<TextView-->
+    <!--android:id="@+id/textView2"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignParentStart="true"-->
+    <!--android:layout_alignParentTop="true"-->
+    <!--android:layout_marginTop="35dp"-->
+    <!--android:text="BACA HADITS"-->
+    <!--android:textAlignment="center"-->
+    <!--android:textSize="18sp"-->
+    <!--android:textStyle="normal|bold" />-->
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="32dp"
+        android:text="KEMBALI"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/judul"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/ic_launcher_background"
+        android:text="KUMPULAN HADITS"
+        android:textSize="30dp"/>
+    <TextView
+        android:id="@+id/title"
+        android:layout_below="@+id/judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:text="Hadits Keutamaan Shalat Jumat :"
+        android:layout_marginBottom="3dp"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:layout_marginTop="20dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="66dp" />
+    <TextView
+        android:id="@+id/arab1"
+        android:layout_below="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:text="@string/hadis8"
+        android:textSize="18dp"
+        android:layout_margin="5dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="20dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="66dp" />
+    <TextView
+        android:id="@+id/arti1"
+        android:layout_below="@+id/arab1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:text="@string/arti8"
+        android:textSize="18dp"
+        android:layout_marginBottom="3dp"
+        android:layout_margin="5dp"
+        android:layout_marginTop="20dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="66dp" />
+
+
+</RelativeLayout>

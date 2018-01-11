@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_kedua"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context="rfa.hadis.MainActivity">
+
+    <Button
+        android:id="@+id/judul"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/ic_launcher_background"
+        android:text="HAFALAN HADITS"
+        android:textSize="20dp"/>
+    <RelativeLayout
+        android:id="@+id/cekbox"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/judul"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/pil1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Lupa Membaca Doa Sebelum Makan" />
+
+        <CheckBox
+            android:id="@+id/pil2"
+            android:layout_below="@+id/pil1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Tentang Kejujuran" />
+
+        <CheckBox
+            android:id="@+id/pil3"
+            android:layout_below="@+id/pil2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Allah Menyukai Kebersihan" />
+        <CheckBox
+            android:id="@+id/pil4"
+            android:layout_below="@+id/pil3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Cinta Kepada Allah" />
+        <CheckBox
+            android:id="@+id/pil5"
+            android:layout_below="@+id/pil4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Tentang Memilih Teman" />
+        <CheckBox
+            android:id="@+id/pil6"
+            android:layout_below="@+id/pil5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Tentang Bersiwak" />
+        <CheckBox
+            android:id="@+id/pil7"
+            android:layout_below="@+id/pil6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Keutamaan Menuntut Ilmu" />
+        <CheckBox
+            android:id="@+id/pil8"
+            android:layout_below="@+id/pil7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Keutamaan Shalat Jumat" />
+        <CheckBox
+            android:id="@+id/pil9"
+            android:layout_below="@+id/pil8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Menganjurkan Berobat" />
+        <CheckBox
+            android:id="@+id/pil10"
+            android:layout_below="@+id/pil9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Menjaga Pola Makan" />
+        <CheckBox
+            android:id="@+id/pil11"
+            android:layout_below="@+id/pil10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Menjaga Alam" />
+        <CheckBox
+            android:id="@+id/pil12"
+            android:layout_below="@+id/pil11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hadits Tentang Akhlak Baik" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/pesan"
+        android:layout_below="@+id/cekbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Setor Hafalan" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="31dp"
+        android:text="Menuju Halaman Utama"
+        android:textSize="14sp" />
+
+</RelativeLayout>

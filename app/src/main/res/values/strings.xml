@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Bacaan Hadits</string>
+    <string name="hadis1">إِذَا أَكَلَ أَحَدُكُمْ فَلْيَذْكُرِ اسْمَ اللَّهِ تَعَالَى فَإِنْ نَسِىَ أَنْ يَذْكُرَ اسْمَ اللَّهِ تَعَالَى فِى أَوَّلِهِ فَلْيَقُلْ
+بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ
+    </string>
+    <string name="arti1">Artinya :
+“Apabila salah seorang di antara kalian makan, maka hendaknya ia menyebut nama Allah Ta’ala.Jika ia lupa untuk menyebut nama Allah Ta’ala di awal, hendaklah ia mengucapkan: “Bismillaahi awwalahu wa aakhirohu (dengan nama Allah pada awal dan akhirnya)”. (HR. Abu Daud no. 3767 dan At Tirmidzi no. 1858. At Tirmidzi mengatakan hadits tersebut hasan shahih. Syaikh Al Albani mengatakan bahwa hadits tersebut shahih)
+    </string>
+
+    <string name="hadis2">
+        عَنْ عَبْدِ اللهِ بنِ مَسْعُوْد رَضِيَ اللهُ عَنْهُ قَالَ : قَالَ رَسُوْلُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ : عَلَيْكُمْ بِالصِّدْقِ ، فَإِنَّ الصِّدْقَ يَهْدِيْ إِلَى الْبِرِّ ، وَإِنَّ الْبِرَّ يَهْدِيْ إِلَى الْجَنَّةِ ، وَمَا يَزَالُ الرَّجُلُ يَصْدُقُ وَيَتَحَرَّى الصِّدْقَ حَتَّى يُكْتَبَ عِنْدَ اللهِ صِدِّيْقًا ، وَإِيَّاكُمْ وَالْكَذِبَ ، فَإِنَّ الْكَذِبَ يَهْدِيْ إِلَى الْفُجُوْرِ ، وَإِنَّ الْفُجُوْرَ يَهْدِيْ إِلَى النَّارِ ، وَمَا يَزَالُ الرَّجُلُ يَكْذِبُ وَيَتَحَرَّى الْكَذِبَ حَتَّى يُكْتَبَ عِنْدَ اللهِ كَذَّابًا
+
+    </string>
+    <string name="arti2">
+    Artinya: Dari ‘Abdullâh bin Mas’ûd Radhiyallahu anhu, ia berkata: “Rasûlullâh Shallallahu ‘alaihi wa sallam bersabda, ‘Hendaklah kalian selalu berlaku jujur, karena kejujuran membawa kepada kebaikan, dan kebaikan mengantarkan seseorang ke Surga. Dan apabila seorang selalu berlaku jujur dan tetap memilih jujur, maka akan dicatat di sisi Allâh sebagai orang yang jujur. Dan jauhilah oleh kalian berbuat dusta, karena dusta membawa seseorang kepada kejahatan, dan kejahatan mengantarkan seseorang ke Neraka. Dan jika seseorang senantiasa berdusta dan memilih kedustaan maka akan dicatat di sisi Allâh sebagai pendusta (pembohong).
+    </string>
+
+    <string name="hadis3">
+
+
+عَنْ سَعْدِبْنِ اَبِى وَقَّاصٍ عَنْ اَبِيْهِ عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ اِنَّ اللهَ طَيِّبٌ يُحِبُّ الطَّيِّبَ نَظِيْفٌ يُحِبُّ النَّظَافَةَ كَرِيْمٌ يُحِبُّ الْكَرَمَ جَوَادٌيُحِبُّ الْجَوَادَفَنَظِّفُوْااَفْنَيْتَكُمْ ”
+
+    </string>
+
+    <string name="arti3">
+Sesungguhnya Allah Ta’ala itu baik (dan) menyukai kebaikan, bersih (dan) menyukai kebersihan, mulia (dan) menyukai kemuliaan, bagus (dan) menyukai kebagusan. Oleh sebab itu, bersihkanlah lingkunganmu”. (HR. At- Turmudzi)
+
+    </string>
+    <string name="hadis4">
+عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ فَوَالَّذِي نَفْسِي بِيَدِهِ لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى أَكُونَ أَحَبَّ إِلَيْهِ مِنْ وَالِدِهِ وَوَلَدِهِ – متفق عليه
+
+    </string>
+    <string name="arti4">
+
+    Dari Abu Hurairah ra, bahwa Rasulullah SAW bersabda: “Demi Zat yang jiwaku berada di tangan-Nya, tidak beriman salah seorang diantara kalian, hingga aku lebih dicintainya daripada orang tuanya dan anaknya” (Muttafaqun Alaih)
+    </string>
+
+    <string name="hadis5">
+    مَثَلُ الْجَلِيسِ الصَّالِحِ وَالْجَلِيسِ السَّوْءِ كَمَثَلِ صَاحِبِ الْمِسْكِ وَكِيرِ الْحَدَّادِ ، لاَ يَعْدَمُكَ مِنْ صَاحِبِ الْمِسْكِ إِمَّا تَشْتَرِيهِ أَوْ تَجِدُ رِيحَهُ ، وَكِيرُ الْحَدَّادِ يُحْرِقُ بَدَنَكَ أَوْ ثَوْبَكَ أَوْ تَجِدُ مِنْهُ رِيحًا خَبِيثَةً
+
+    </string>
+    <string name="arti5">
+        Seseorang yang duduk (berteman) dengan orang shalih dan orang yang jelek bagaikan berteman dengan pemilik minyak wangi dan pandai besi. Pemilik minyak wangi tidak akan merugikanmu; engkau bisa membeli (minyak wangi) darinya atau minimal engkau mendapat baunya. Adapun berteman dengan pandai besi, jika engkau tidak mendapati badan atau pakaianmu hangus terbakar, minimal engkau mendapat baunya yang tidak enak.” (HR. Bukhari, no. 2101)
+    </string>
+    <string name="hadis6">
+    السِّوَاكُ مَطْهَرَةٌ لِلْفَمِ مَرْضَاةٌ لِلرَّبِّ
+
+    </string>
+    <string name="arti6">
+“Bersiwak itu akan membuat mulut bersih dan diridhoi oleh Allah.” (Shohih, HR. An Nasa’i, Ahmad, dll)
+</string>
+
+    <string name="hadis7">
+
+مَنْ أَرَادَ الدُّنْيَا فَعَلَيْهِ بِالْعِلْمِ, وَمَنْ أَرَادَ الأَخِرَةَ فَعَلَيْهِ بِالْعِلْمِ, وَمَنْ  أَرَادَهُمَا فَعَلَيْهِ بِالْعِلْمِ
+
+
+</string>
+    <string name="arti7">
+"Barang siapa menginginkan soal-soal yang berhubungan dengan dunia, wajiblah ia memiliki ilmunya ; dan barang siapa yang ingin (selamat dan berbahagia) di akhirat, wajiblah ia mengetahui ilmunya pula; dan barangsiapa yang menginginkan kedua-duanya, wajiblah ia memiliki ilmu kedua-duanya pula". (HR. Bukhari dan Muslim)
+</string>
+
+    <string name="hadis8">
+لاَ يَغْتَسِلُ رَجُلٌ يَوْمَ الْجُمُعَةِ وَيَتَطَهَّرُ مَا اسْتَطَاعَ مِنْ طُهْرٍ وَيُدَّهِنُ مِنْ دُهْنِهِ أَوْ يَمَسُّ مِنْ طِيبِ بَيْتِهِ ثُمَّ يَخْرُجُ فَلاَ يُفَرِّقُ بَيْنَ اثْنَيْنِ ثُمَّ يُصَلِّي مَا كُتِبَ لَهُ ثُمَّ يُنْصِتُ إِذَا تَكَلَّمَ اْلإِمَامُ إِلاَّ غُفِرَ لَهُ مَا بَيْنَهُ وَبَيْنَ الْجُمُعَةِ اْلأُخْرَى
+
+</string>
+    <string name="arti8">
+Tidaklah seseorang mandi dan bersuci semampunya pada hari Jum’at, memakai minyak rambut atau memakai minyak wangi di rumahnya kemudian keluar lalu dia tidak memisahkan antara dua orang (dalam shaff) kemudian mengerjakan shalat dan selanjutnya dia diam (tidak berbicara) jika khatib berkhutbah, melainkan akan diberikan ampunan kepadanya (atas kesalahan yang terjadi) antara Jum’atnya itu dengan Jum’at yang berikut-nya.” [Shahih: Diriwayatkan oleh al-Bukhari (no. 883)]
+
+</string>
+
+    <string name="hadis9">
+يا رسول الله ألا نتداوى ؟ قال : ( تداووا ، فإن الله لم يضع داء إلا وضع له شفاء إلا داء واحد ) قالوا : يا رسول الله وما هو ؟ قال : ( الهرم
+
+</string>
+    <string name="arti9">
+
+’Wahai Rosululloh, apakah kita berobat?, Nabi bersabda,’’berobatlah, karena sesungguhnya Alloh tidak menurunkan penyakit, kecuali pasti menurunkan obatnya, kecuali satu penyakit (yang tidak ada obatnya),’’ mereka bertanya,’’apa itu’’ ? Nabi bersabda,’’penyakit tua.’’ (HR.Tirmidzi 2038, dan disahihkan oleh al-Albani dalam Sunan Ibnu Majah 3436)
+
+</string>
+
+    <string name="hadis10">
+
+ما ملأ آدمي وعاء شرا من بطنه بحسب ابن آدم لقيمات يقمن صلبه فإن كان لابد فاعلا فثلث لطعامه وثلث لشرابه وثلث لنفسه ) رواه الإمام أحمد والترمذي وغيرهم
+
+</string>
+    <string name="arti10">
+Tidaklah seorang anak Adam (manusia) mengisi bejana (kantong) yang lebih buruk daripada perutnya. Cukuplah baginya beberapa suap yang bisa menegakkan tulang sulbinya. Jikalau memang harus berbuat, maka sepertiga untuk makanannya, sepertiga untuk minumannya dan sepertiga untuk nafasnya.” (HR. Imam Ahmad, at-Tirmidzi dan rahimahumullah selainnya)
+
+</string>
+
+    <string name="hadis11">
+مَنْ اَحْيَى اَرْضًا مَيِّتَةً فَهِيَ لَهُ (رواه الترمذى عن جابر بن عبد الله)
+</string>
+    <string name="arti11">
+
+Barang siapa menghidupkan suatu bumi yang mati, maka bumi itu baginya (miliknya). (H.R. at-Tirmizi dari Jabir bin Abdullah No. 1300)
+</string>
+
+    <string name="hadis12">
+كُتِبَ عَلَى ابْنِ آدَمَ نَصِيبُهُ مِنَ الزِّنَا، مُدْرِكٌ ذَلِكَ لَا مَحَالَةَ، فَالْعَيْنَانِ زِنَاهُمَا النَّظَرُ، وَالْأُذُنَانِ زِنَاهُمَا الِاسْتِمَاعُ، وَاللِّسَانُ زِنَاهُ الْكَلَامُ، وَالْيَدُ زِنَاهَا الْبَطْشُ، وَالرِّجْلُ زِنَاهَا الْخُطَا، وَالْقَلْبُ يَهْوَى وَيَتَمَنَّى، وَيُصَدِّقُ ذَلِكَ الْفَرْجُ وَيُكَذِّبُهُ
+</string>
+    <string name="arti12">
+
+Sesungguhnya Allah telah menetapkan atas diri anak keturunan Adam bagiannya dari zina. Dia mengetahui yang demikian tanpa dipungkiri. Mata bisa berzina, dan zinanya adalah pandangan (yang diharamkan). Zina kedua telinga adalah mendengar (yang diharamkan). Lidah (lisan) bisa berzina, dan zinanya adalah perkataan (yang diharamkan). Tangan bisa berzina, dan zinanya adalah memegang (yang diharamkan). Kaki bisa berzina, dan zinanya adalah ayunan langkah (ke tempat yang haram). Hati itu bisa berkeinginan dan berangan-angan. Sedangkan kemaluan membenarkan yang demikian itu atau mendustakannya.” (HR. Bukhari no. 6243 dan Muslim no. 2657. Lafadz hadits di atas milik Muslim).
+
+</string>
+
+    <string name="hadis13">
+عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا وَخِيَارُكُمْ خِيَارُكُمْ لِنِسَائِهِمْ خُلُقًا (الترمذى
+
+</string>
+    <string name="arti13">
+
+“Orang mukmin yang paling sempurna keimanannya adalah ia yang memiliki akhlak terbaik. Yang terbaik di antara kalian adalah yang terbaik akhlaknya kepada pasangannya.” (Hadits riwayat Tirmidzi)
+
+</string>
+
+    <string name="hadis14">
+
+لَا يَسْتُرُ عَبْدٌ عَبْدًا فِي الدُّنْيَا إِلَّا سَتَرَهُ اللَّهُ يَوْمَ الْقِيَامَةِ
+
+</string>
+    <string name="arti14">
+
+Tidaklah seseorang menutupi aib orang lain di dunia, melainkan Allah akan menutupi aibnya di hari kiamat kelak.” [Shahih Muslim]
+
+</string>
+
+    <string name="hadis15">
+
+
+أَلَا أُخْبِرُكُمْ بِأَهْلِ النَّارِ قَالُوا بَلَى قَالَ كُلُّ عُتُلٍّ جَوَّاظٍ مُسْتَكْبِرٍ
+
+</string>
+    <string name="arti15">
+
+Maukah kamu aku beritahu tentang penduduk neraka? Mereka semua adalah orang-orang keras lagi kasar, tamak lagi rakus, dan takabbur(sombong).“ (HR. Bukhari no. 4918 dan Muslim no. 2853).
+
+</string>
+
+    <string name="hadis16">
+
+إِنَّ اللَّهَ يُحِبُّ أَنْ تُؤْتِى رُخْصَهُ كَمَا يَكْرَهُ أَنْ تُؤْتِى مَعْصِيَتَه
+
+</string>
+
+    <string name="arti16">
+
+“Sesungguhnya Allah menyukai didatanginya rukhsah yang diberikan, sebagaimana Dia membenci orang yang melakukan maksiat” [Hadits Riwayat Ahmad 2/108, Ibnu Hibban 2742 dari Ibnu Umar dengan sanadnya yang Shahih
+
+</string>
+
+    <string name="hadis17">
+
+
+عَنْ أَبِي سَعِيْد الْخُدْرِي رَضِيَ اللهُ عَنْهُ قَالَ : سَمِعْتُ رَسُوْلَ اللهِ صلى الله عليه وسلم يَقُوْلُ : مَنْ رَأَى مِنْكُمْ مُنْكَراً فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ وَذَلِكَ أَضْعَفُ اْلإِيْمَانِ. رواه مسلم
+
+
+</string>
+
+    <string name="arti17">
+
+Dari Abu Sa’id Al Khudri radiallahuanhu berkata : Saya mendengar Rasulullah shallallahu`alaihi wa sallam  bersabda: Siapa yang melihat kemunkaran maka rubahlah dengan tangannya, jika tidak mampu maka rubahlah dengan lisannya, jika tidak mampu maka (tolaklah) dengan hatinya dan hal tersebut adalah selemah-lemahnya iman.(Riwayat Muslim)
+</string>
+
+    <string name="isiinfo">Aplikasi ini adalah sebuah aplikasi Kumpulan beberapa Hadits sehari-hari yang bisa di hafal oleh para pembaca,aplikasi ini dibuat sebagai salahsatu tugas untuk memenuhi nilai matakuliah Mobile Programing di Jurusan Teknik Informatika UIN SGD Bandung </string>
+
+</resources>
